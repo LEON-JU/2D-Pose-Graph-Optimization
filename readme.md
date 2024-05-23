@@ -14,4 +14,4 @@
 - g2o_optimization.cpp —— implemented graph optimization with g2o, enter build and run `./g2o_optimization` to see the results.
 - CMakeLists.txt —— CMakeLists.txt for building the program, you may need to setup the environment first.
 
-2021533088-juyiang-hw1.pdf: my homework report
+report.pdf: my homework report
