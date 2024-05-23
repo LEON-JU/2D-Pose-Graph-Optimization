@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/trajectory_optimization.dir/main.cpp.o  -o trajectory_optimization 
